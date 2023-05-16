@@ -1,0 +1,761 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D9882C.75D93CD0"
+
+Ce document est une page web à fichier unique, également appelée fichier d’archive web. Si vous lisez ce message, cela signifie que votre navigateur ou éditeur ne prend pas en charge les fichiers de ce type. Veuillez télécharger un navigateur compatible.
+
+------=_NextPart_01D9882C.75D93CD0
+Content-Location: file:///C:/B133A994/Git.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DOneNote.File>
+<meta name=3DGenerator content=3D"Microsoft OneNote 15">
+<link id=3DMain-File rel=3DMain-File href=3DGit.htm>
+<link rel=3DFile-List href=3D"Git_fichiers/filelist.xml">
+</head>
+
+<body lang=3Dfr style=3D'font-family:Calibri;font-size:11.0pt'>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:14.5715in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:4.4256in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>Git Re=
+po
+Generation from Desktop</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:2.1215=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+mercredi
+8 fÃ©vrier 2023</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+17:29</p>
+
+</div>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 cols=3D7 valign=3Dtop sty=
+le=3D'direction:
+ ltr;border-collapse:collapse;border-width:0pt;margin-top:.4305in;margin-le=
+ft:
+ 0in;width:14.5715in'>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:8.8854in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.0416in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:.7291in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td rowspan=3D9 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
+ng:0pt;
+  width:8.8854in;height:13.7298in'>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'><a
+  href=3D"https://docs.github.com/en/get-started/using-git/about-git">https=
+://docs.github.com/en/get-started/using-git/about-git</a></p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ cd gitRepo=
+Path</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git init</=
+p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git status=
+</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code gitRe=
+poPath</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code . (at=
+ the
+  gitRepoPath)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code
+  ~/.gitconfig</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git init -=
+-help</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git add</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git add .<=
+/p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git rm --c=
+ached
+  fileName (to unstage)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git commit=
+ -m
+  &quot;&quot; </p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git commit -=
+am
+  &quot;&quot; (add &amp; commit)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>GitHub branc=
+h name
+  is &quot;main&quot; instead of &quot;master&quot;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch
+  &lt;name&gt; (create a branch)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch=
+ -m
+  &lt;name&gt;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch=
+ -M
+  main (local branch -&gt; main)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch
+  (shows the current branch name with *, and all other branches)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch=
+ --set
+  -upstream-to=3Dorigin/main main (to avoid mentioning the remote &amp; loc=
+al
+  branch names. Sets default branches when pulling and pushing)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch=
+ -D
+  &lt;name&gt; (deletes local branch)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+  --global init.defaultBranch &lt;name&gt;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+  --global user.name (username who commits from local repo)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+  --global user.email (email who commits from local repo)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+  --global user.name &lt;username&gt; (define a new username who commits fr=
+om
+  local repo)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+  --global user.email &lt;email&gt; (define a new email who commits from lo=
+cal
+  repo)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:ui-monospace;font-size:10.2pt;color:#9=
+A9692'>git
+  remote add origin <a
+  href=3D"https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git">https:=
+//github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git</a>
+  (connect local repo to remote repo)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
+'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
+'>Git
+  log</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
+'>Git
+  log --oneline</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
+'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
+'>Nano
+  demo.py</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+  --global core.editor &quot;code --wait&quot; (opens VS code with Code
+  command)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show HEA=
+D</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show 443=
+f6b2</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show HEA=
+D~3</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
+  fileName (previous state)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout=
+ .</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
+  443f6b2</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
+  master</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git checko=
+ut
+  &lt;branch name&gt; (to change the current branch. HEAD-&gt; &lt;branch
+  name&gt; )</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git checko=
+ut -b
+  &lt;branch name&gt;<span style=3D'mso-spacerun:yes'>Â  </span>(to change =
+the
+  current branch. HEAD-&gt; &lt;branch name&gt; )</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git checko=
+ut
+  --track origin/&lt;new remote branch&gt; (adds new remote branch to local=
+)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Detached head
+  state:<span style=3D'mso-spacerun:yes'>Â  </span>If checkout to previous =
+heads,
+  then change sth and add and commit</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Undo the cha=
+nges
+  of a specific commit: revert &amp; reset</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git revert 4=
+43f6b2</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>For reset:</=
+p>
+  <ol type=3D1 style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embed;
+   margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:11.0pt;
+   font-weight:normal;font-style:normal'>
+   <li value=3D1 style=3D'margin-top:0;margin-bottom:0;vertical-align:middl=
+e'><span
+       style=3D'font-family:Calibri;font-size:11.0pt;font-weight:normal;
+       font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset
+       --mixed 443f6b2 (removes commits after 443f6b2 and unstages the file=
+s)</span></li>
+  </ol>
+  <p style=3D'margin:0in;margin-left:.75in;font-family:Calibri;font-size:11=
+.0pt'>Git
+  reset .</p>
+  <ol type=3D1 style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embed;
+   margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:11.0pt;
+   font-weight:normal;font-style:normal'>
+   <li value=3D2 style=3D'margin-top:0;margin-bottom:0;vertical-align:middl=
+e'><span
+       style=3D'font-family:Calibri;font-size:11.0pt;font-weight:normal;
+       font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset --=
+soft
+       443f6b2 (removes commits after 443f6b2, but there is no unstaged fil=
+e)</span></li>
+   <ol type=3Da style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embe=
+d;
+    margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:11.0pt;
+    font-weight:normal;font-style:normal'>
+    <li value=3D1 style=3D'margin-top:0;margin-bottom:0;vertical-align:midd=
+le'><span
+        style=3D'font-family:Calibri;font-size:11.0pt;font-weight:normal;
+        font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset .
+        (there are unstaged file)</span></li>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>Git checkout . (no
+        unstaged)</span></li>
+   </ol>
+   <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+       style=3D'font-family:Calibri;font-size:11.0pt'>Git reset --hard 443f=
+6b2
+       (removes both commits and files permenantly)</span></li>
+  </ol>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git rm -r --=
+cached
+  .</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git push
+  &lt;remote branch&gt; &lt;local branch&gt;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git push o=
+rigin
+  --delete &lt;remote branch&gt; (deletes remote branch)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git pull
+  &lt;remote branch&gt; &lt;local branch&gt;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>On
+  GitHub&gt;&quot;Add file&quot;&gt;&quot;Create new file&quot;&gt;put
+  &quot;/&quot; at the end of the file name to make it folder name</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git merge
+  &lt;destination branch&gt; (fast forward merge: move your main branch's t=
+ip
+  forward to the end of your feature branch)</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:.7291in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:.7291in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.7291in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.0416in;
+  height:.7291in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.7291in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:.7291in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:1.6916in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:1.6916in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:1.6916in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:1.6916in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td colspan=3D2 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
+ng:0pt;
+  width:.7916in;height:1.6916in'><img src=3D"Git_fichiers/image001.png" wid=
+th=3D76
+  height=3D162></td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:1.6916in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:.0583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:.0583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:.0583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.0583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.0416in;
+  height:.0583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.0583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:.0583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:.9409in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:.9409in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:.9409in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.9409in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td colspan=3D2 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
+ng:0pt;
+  width:.7916in;height:.9416in'>&lt;&lt;VSCodeUserSetup-x64-1.55.0.exe&gt;&=
+gt;</td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:.9409in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:.8277in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:.8277in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:.8277in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.8277in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.0416in;
+  height:.8277in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.8277in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:.8277in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:1.2236in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:1.2236in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td colspan=3D5 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
+ng:0pt;
+  width:4.3215in;height:1.2236in'><img src=3D"Git_fichiers/image002.png"
+  width=3D416 height=3D118
+  alt=3D"Course: &#13;&#10;ï·ŸHYPERLINK &quot;https://www.udemy.com/course/=
+git-and-github-a-practical-course-beginner-to-advanced/&quot;Git &amp; GitH=
+ub A Practical Course: Beginner To Advanced Level&#13;&#10;"></td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:.0055in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:.0055in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:.0055in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.0055in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.0416in;
+  height:.0055in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.0055in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:.0055in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:.9416in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:.9416in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:.9416in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td colspan=3D2 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
+ng:0pt;
+  width:.7916in;height:.9423in'>&lt;&lt;S2.1-What-Is-VCS-and-Git.pdf&gt;&gt=
+;</td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:.9416in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:.9416in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:7.309in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3638in;
+  height:7.309in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.4791in;
+  height:7.309in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:7.309in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.0416in;
+  height:7.309in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.75in;
+  height:7.309in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1.3006in;
+  height:7.309in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+</div>
+
+<div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'text-align:left;margin:0in;font-family:Arial;font-size:9pt;
+color:#969696;direction:ltr'>CrÃ©Ã© avec Microsoft OneNote&nbsp;2016.</p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D9882C.75D93CD0
+Content-Location: file:///C:/B133A994/Git_fichiers/image001.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+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
+
+------=_NextPart_01D9882C.75D93CD0
+Content-Location: file:///C:/B133A994/Git_fichiers/image002.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+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
+QmCC
+
+------=_NextPart_01D9882C.75D93CD0
+Content-Location: file:///C:/B133A994/Git_fichiers/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Git.htm"/>
+ <o:File HRef=3D"image001.png"/>
+ <o:File HRef=3D"image002.png"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D9882C.75D93CD0--
