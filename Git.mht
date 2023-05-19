@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D9882C.75D93CD0"
+Content-Type: multipart/related; boundary="----=_NextPart_01D98A69.CA02CA80"
 
 Ce document est une page web à fichier unique, également appelée fichier d’archive web. Si vous lisez ce message, cela signifie que votre navigateur ou éditeur ne prend pas en charge les fichiers de ce type. Veuillez télécharger un navigateur compatible.
 
-------=_NextPart_01D9882C.75D93CD0
+------=_NextPart_01D98A69.CA02CA80
 Content-Location: file:///C:/B133A994/Git.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="utf-8"
@@ -101,7 +101,7 @@ ft:
   </td>
   <td rowspan=3D9 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
 ng:0pt;
-  width:8.8854in;height:13.7298in'>
+  width:8.8854in;height:15.4222in'>
   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'><a
   href=3D"https://docs.github.com/en/get-started/using-git/about-git">https=
 ://docs.github.com/en/get-started/using-git/about-git</a></p>
@@ -183,9 +183,14 @@ A9692'>git
   <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
 '>Git
   log</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
-'>Git
-  log --oneline</p>
+  <p style=3D'margin:0in;font-family:Calibri'><span style=3D'font-size:11.0=
+pt'>$
+  git </span><span style=3D'font-size:10.2pt;color:#9A9692'>log --oneline</=
+span></p>
+  <p style=3D'margin:0in;font-family:Calibri'><span style=3D'font-size:11.0=
+pt'>$
+  git </span><span style=3D'font-size:10.2pt;color:#9A9692'>log --oneline -=
+-graph</span></p>
   <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
 '>&nbsp;</p>
   <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
@@ -274,9 +279,16 @@ le'><span
         unstaged)</span></li>
    </ol>
    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
-       style=3D'font-family:Calibri;font-size:11.0pt'>Git reset --hard 443f=
-6b2
-       (removes both commits and files permenantly)</span></li>
+       style=3D'font-family:Calibri;font-size:11.0pt'>Git reset --hard </sp=
+an><span
+       style=3D'font-family:Calibri;font-size:10.2pt;color:#9A9692'>&lt;com=
+mit #:</span><span
+       style=3D'font-family:Calibri;font-size:11.0pt'>443f6b2</span><span
+       style=3D'font-family:Calibri;font-size:10.2pt;color:#9A9692'>&gt; </=
+span><span
+       style=3D'font-family:Calibri;font-size:11.0pt'>(removes both commits=
+ and
+       files permenantly after 443f6b2)</span></li>
   </ol>
   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git rm -r --=
@@ -296,10 +308,32 @@ rigin
   GitHub&gt;&quot;Add file&quot;&gt;&quot;Create new file&quot;&gt;put
   &quot;/&quot; at the end of the file name to make it folder name</p>
   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Usually chec=
+kout
+  to the default branch (main) and merge to the developped branch (dev)</p>
   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git merge
   &lt;destination branch&gt; (fast forward merge: move your main branch's t=
 ip
   forward to the end of your feature branch)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git merge
+  --abort (when there is merge conflict. The overall command to abort the
+  merging)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git rebase
+  &lt;branch:main&gt; (Rebase dev branch to the main branch. If we make cha=
+nge
+  on both branches and then merge, it will be a fast forward merge, and sho=
+ws
+  no commit history of dev branch)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>In GItHub: O=
+n our
+  own repo create a new branch; make changes;pull request;merge; delete the=
+ new
+  branch</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Commit for m=
+arging
+  is necessary (GitHub does that)</p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3638in;
@@ -559,37 +593,37 @@ ng:0pt;
  <tr>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1px;
-  height:7.309in;font-size:1pt'>
+  height:9.0013in;font-size:1pt'>
   <p style=3D'font-size:1pt'>&nbsp;</p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3638in;
-  height:7.309in;font-size:1pt'>
+  height:9.0013in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.4791in;
-  height:7.309in;font-size:1pt'>
+  height:9.0013in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.75in;
-  height:7.309in;font-size:1pt'>
+  height:9.0013in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.0416in;
-  height:7.309in;font-size:1pt'>
+  height:9.0013in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.75in;
-  height:7.309in;font-size:1pt'>
+  height:9.0013in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3006in;
-  height:7.309in;font-size:1pt'>
+  height:9.0013in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
  </tr>
@@ -612,7 +646,7 @@ color:#969696;direction:ltr'>CrÃ©Ã© avec Microsoft OneNote&nbsp;2016.</p>
 
 </html>
 
-------=_NextPart_01D9882C.75D93CD0
+------=_NextPart_01D98A69.CA02CA80
 Content-Location: file:///C:/B133A994/Git_fichiers/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -657,7 +691,7 @@ I6ncehLlYNp5DWwUyfT1ezFhKfI4+eamBY2MYfiX5fH7PVlQlehzjfhgJ9LvqclWbjkDXuRZZByb
 8X4Fpwc7kebv7esVbJiTiT68SBwbRJq/t89OWM7JmO/ts3MEsxPp9s2vVXKr2ZMqZZ6qLzyzJ7uK
 L828IETyghDJC0IkHyD0H8gqjkVs3N8WAAAAAElFTkSuQmCC
 
-------=_NextPart_01D9882C.75D93CD0
+------=_NextPart_01D98A69.CA02CA80
 Content-Location: file:///C:/B133A994/Git_fichiers/image002.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -747,7 +781,7 @@ cwiFe2Gm8akTs/5QTADmGAic9yCFG7D0TYWVtSeZ438nOAVyPBRz9g4EwCyBp4kAADwLHBwAwLNA
 4AAAngUCBwDwLBA4AIBngcABADwLBA4A4FkgcAAAzwKBAwB4FMb+H+fZhLi+rJ58AAAAAElFTkSu
 QmCC
 
-------=_NextPart_01D9882C.75D93CD0
+------=_NextPart_01D98A69.CA02CA80
 Content-Location: file:///C:/B133A994/Git_fichiers/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -758,4 +792,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"image002.png"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D9882C.75D93CD0--
+------=_NextPart_01D98A69.CA02CA80--
