@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D98A69.CA02CA80"
+Content-Type: multipart/related; boundary="----=_NextPart_01D98F36.BDFFE390"
 
 Ce document est une page web ‡ fichier unique, Ègalement appelÈe fichier díarchive web. Si vous lisez ce message, cela signifie que votre navigateur ou Èditeur ne prend pas en charge les fichiers de ce type. Veuillez tÈlÈcharger un navigateur compatible.
 
-------=_NextPart_01D98A69.CA02CA80
+------=_NextPart_01D98F36.BDFFE390
 Content-Location: file:///C:/B133A994/Git.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="utf-8"
@@ -21,6 +21,76 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
 </head>
 
 <body lang=3Dfr style=3D'font-family:Calibri;font-size:11.0pt'>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:2.4465in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:2.1215=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+mercredi
+8 f√©vrier 2023</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+17:01</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.4305in;margin-left:0in;width:2.4465=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>CMD Basics:</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>pwd</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>cd </p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>cd ..</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>cd ../..</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>cd ~</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Mkdir</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>touch</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>ls</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>mv oldFileName
+newFileName</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Cp</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>rm fileName</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>rm -rf folderN=
+ame</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>clear </p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Ctrl+L</p>
+
+</div>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
 
 <div style=3D'direction:ltr;border-width:100%'>
 
@@ -101,7 +171,7 @@ ft:
   </td>
   <td rowspan=3D9 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
 ng:0pt;
-  width:8.8854in;height:15.4222in'>
+  width:8.8854in;height:16.7277in'>
   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'><a
   href=3D"https://docs.github.com/en/get-started/using-git/about-git">https=
 ://docs.github.com/en/get-started/using-git/about-git</a></p>
@@ -334,6 +404,24 @@ n our
   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Commit for m=
 arging
   is necessary (GitHub does that)</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>How to contr=
+ibute
+  to the open source project:</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Fork it. We =
+can
+  'fork' someone else's repo, not ours. 'fork' copies to GH account</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>'clone' copi=
+es to
+  local. Clone the forked repo, not the original repo. </p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Change the c=
+opied
+  local repo offline. </p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Push changes=
+ to
+  the forked repo</p>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Then 'pull
+  request' to contribute to the original repo (we cannot merge directly)</p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3638in;
@@ -593,37 +681,37 @@ ng:0pt;
  <tr>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1px;
-  height:9.0013in;font-size:1pt'>
+  height:10.3069in;font-size:1pt'>
   <p style=3D'font-size:1pt'>&nbsp;</p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3638in;
-  height:9.0013in;font-size:1pt'>
+  height:10.3069in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.4791in;
-  height:9.0013in;font-size:1pt'>
+  height:10.3069in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.75in;
-  height:9.0013in;font-size:1pt'>
+  height:10.3069in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.0416in;
-  height:9.0013in;font-size:1pt'>
+  height:10.3069in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.75in;
-  height:9.0013in;font-size:1pt'>
+  height:10.3069in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3006in;
-  height:9.0013in;font-size:1pt'>
+  height:10.3069in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
  </tr>
@@ -646,7 +734,7 @@ color:#969696;direction:ltr'>Cr√©√© avec Microsoft OneNote&nbsp;2016.</p>
 
 </html>
 
-------=_NextPart_01D98A69.CA02CA80
+------=_NextPart_01D98F36.BDFFE390
 Content-Location: file:///C:/B133A994/Git_fichiers/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -691,7 +779,7 @@ I6ncehLlYNp5DWwUyfT1ezFhKfI4+eamBY2MYfiX5fH7PVlQlehzjfhgJ9LvqclWbjkDXuRZZByb
 8X4Fpwc7kebv7esVbJiTiT68SBwbRJq/t89OWM7JmO/ts3MEsxPp9s2vVXKr2ZMqZZ6qLzyzJ7uK
 L828IETyghDJC0IkHyD0H8gqjkVs3N8WAAAAAElFTkSuQmCC
 
-------=_NextPart_01D98A69.CA02CA80
+------=_NextPart_01D98F36.BDFFE390
 Content-Location: file:///C:/B133A994/Git_fichiers/image002.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -781,7 +869,7 @@ cwiFe2Gm8akTs/5QTADmGAic9yCFG7D0TYWVtSeZ438nOAVyPBRz9g4EwCyBp4kAADwLHBwAwLNA
 4AAAngUCBwDwLBA4AIBngcABADwLBA4A4FkgcAAAzwKBAwB4FMb+H+fZhLi+rJ58AAAAAElFTkSu
 QmCC
 
-------=_NextPart_01D98A69.CA02CA80
+------=_NextPart_01D98F36.BDFFE390
 Content-Location: file:///C:/B133A994/Git_fichiers/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -792,4 +880,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"image002.png"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D98A69.CA02CA80--
+------=_NextPart_01D98F36.BDFFE390--
