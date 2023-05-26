@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D98F36.BDFFE390"
+Content-Type: multipart/related; boundary="----=_NextPart_01D98FD3.6A649B70"
 
 Ce document est une page web à fichier unique, également appelée fichier d’archive web. Si vous lisez ce message, cela signifie que votre navigateur ou éditeur ne prend pas en charge les fichiers de ce type. Veuillez télécharger un navigateur compatible.
 
-------=_NextPart_01D98F36.BDFFE390
+------=_NextPart_01D98FD3.6A649B70
 Content-Location: file:///C:/B133A994/Git.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="utf-8"
@@ -94,9 +94,10 @@ ame</p>
 
 <div style=3D'direction:ltr;border-width:100%'>
 
-<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:14.5715in'>
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:14.8625in'>
 
-<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:4.4256in'>
+<div style=3D'direction:ltr;margin-top:0in;margin-left:.2909in;width:4.4256=
+in'>
 
 <p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>Git Re=
 po
@@ -104,8 +105,8 @@ Generation from Desktop</p>
 
 </div>
 
-<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:2.1215=
-in'>
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:.2909in;width:2.=
+1215in'>
 
 <p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
 mercredi
@@ -120,7 +121,7 @@ mercredi
 le=3D'direction:
  ltr;border-collapse:collapse;border-width:0pt;margin-top:.4305in;margin-le=
 ft:
- 0in;width:14.5715in'>
+ 0in;width:14.8625in'>
  <tr>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1px;
@@ -128,7 +129,7 @@ ft:
   <p style=3D'font-size:1pt'>&nbsp;</p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
-:8.8854in;
+:9.1763in;
   height:1px;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
@@ -171,257 +172,328 @@ ft:
   </td>
   <td rowspan=3D9 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
 ng:0pt;
-  width:8.8854in;height:16.7277in'>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'><a
-  href=3D"https://docs.github.com/en/get-started/using-git/about-git">https=
-://docs.github.com/en/get-started/using-git/about-git</a></p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ cd gitRepo=
-Path</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git init</=
-p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git status=
-</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code gitRe=
-poPath</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code . (at=
- the
-  gitRepoPath)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code
-  ~/.gitconfig</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git init -=
--help</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git add</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git add .<=
+  width:9.1763in;height:19.7118in'>
+  <ul style=3D'margin-left:.2902in;direction:ltr;unicode-bidi:embed;margin-=
+top:
+   0in;margin-bottom:0in'>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'><a
+   href=3D"https://docs.github.com/en/get-started/using-git/about-git">http=
+s://docs.github.com/en/get-started/using-git/about-git</a></p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ cd gitRep=
+oPath</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git init<=
 /p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git rm --c=
-ached
-  fileName (to unstage)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git commit=
- -m
-  &quot;&quot; </p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git commit -=
-am
-  &quot;&quot; (add &amp; commit)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>GitHub branc=
-h name
-  is &quot;main&quot; instead of &quot;master&quot;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch
-  &lt;name&gt; (create a branch)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch=
- -m
-  &lt;name&gt;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch=
- -M
-  main (local branch -&gt; main)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch
-  (shows the current branch name with *, and all other branches)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch=
- --set
-  -upstream-to=3Dorigin/main main (to avoid mentioning the remote &amp; loc=
-al
-  branch names. Sets default branches when pulling and pushing)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch=
- -D
-  &lt;name&gt; (deletes local branch)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
-  --global init.defaultBranch &lt;name&gt;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
-  --global user.name (username who commits from local repo)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
-  --global user.email (email who commits from local repo)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
-  --global user.name &lt;username&gt; (define a new username who commits fr=
-om
-  local repo)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
-  --global user.email &lt;email&gt; (define a new email who commits from lo=
-cal
-  repo)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:ui-monospace;font-size:10.2pt;color:#9=
-A9692'>git
-  remote add origin <a
-  href=3D"https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git">https:=
-//github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git</a>
-  (connect local repo to remote repo)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
-'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
-'>Git
-  log</p>
-  <p style=3D'margin:0in;font-family:Calibri'><span style=3D'font-size:11.0=
-pt'>$
-  git </span><span style=3D'font-size:10.2pt;color:#9A9692'>log --oneline</=
-span></p>
-  <p style=3D'margin:0in;font-family:Calibri'><span style=3D'font-size:11.0=
-pt'>$
-  git </span><span style=3D'font-size:10.2pt;color:#9A9692'>log --oneline -=
--graph</span></p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
-'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A9692=
-'>Nano
-  demo.py</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
-  --global core.editor &quot;code --wait&quot; (opens VS code with Code
-  command)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show HEA=
-D</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show 443=
-f6b2</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show HEA=
-D~3</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
-  fileName (previous state)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout=
- .</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
-  443f6b2</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
-  master</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git checko=
-ut
-  &lt;branch name&gt; (to change the current branch. HEAD-&gt; &lt;branch
-  name&gt; )</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git checko=
-ut -b
-  &lt;branch name&gt;<span style=3D'mso-spacerun:yes'>Â  </span>(to change =
-the
-  current branch. HEAD-&gt; &lt;branch name&gt; )</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git checko=
-ut
-  --track origin/&lt;new remote branch&gt; (adds new remote branch to local=
-)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Detached head
-  state:<span style=3D'mso-spacerun:yes'>Â  </span>If checkout to previous =
-heads,
-  then change sth and add and commit</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Undo the cha=
-nges
-  of a specific commit: revert &amp; reset</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git revert 4=
-43f6b2</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>For reset:</=
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git statu=
+s</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code
+   gitRepoPath</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code . (a=
+lready
+   at the gitRepoPath)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ code
+   ~/.gitconfig</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git init =
+--help</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git add</=
 p>
-  <ol type=3D1 style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embed;
-   margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:11.0pt;
-   font-weight:normal;font-style:normal'>
-   <li value=3D1 style=3D'margin-top:0;margin-bottom:0;vertical-align:middl=
-e'><span
-       style=3D'font-family:Calibri;font-size:11.0pt;font-weight:normal;
-       font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset
-       --mixed 443f6b2 (removes commits after 443f6b2 and unstages the file=
-s)</span></li>
-  </ol>
-  <p style=3D'margin:0in;margin-left:.75in;font-family:Calibri;font-size:11=
-.0pt'>Git
-  reset .</p>
-  <ol type=3D1 style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embed;
-   margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:11.0pt;
-   font-weight:normal;font-style:normal'>
-   <li value=3D2 style=3D'margin-top:0;margin-bottom:0;vertical-align:middl=
-e'><span
-       style=3D'font-family:Calibri;font-size:11.0pt;font-weight:normal;
-       font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset --=
-soft
-       443f6b2 (removes commits after 443f6b2, but there is no unstaged fil=
-e)</span></li>
-   <ol type=3Da style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embe=
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git add .=
+</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git rm --=
+cached
+   fileName (to unstage)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git commi=
+t -m
+   &quot;&quot; </p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git commit =
+-am
+   &quot;&quot; (add &amp; commit)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>GitHub bran=
+ch
+   name is &quot;main&quot; instead of &quot;master&quot;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch
+   &lt;name&gt; (create a branch)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branc=
+h -m
+   &lt;name&gt;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branc=
+h -M
+   main (local branch('master') -&gt; main)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch
+   (shows the current branch name with *, and all other branches)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branch
+   --set -upstream-to=3Dorigin/main main (to avoid mentioning the remote &a=
+mp;
+   local branch names. Sets default branches when pulling and pushing)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git branc=
+h -D
+   &lt;name&gt; (deletes local branch)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git touch=
+ (to
+   create files)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+   --global init.defaultBranch &lt;name&gt;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+   --global user.name (username who commits from local repo)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+   --global user.email (email who commits from local repo)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+   --global user.name &lt;username&gt; (define a new username who commits f=
+rom
+   local repo)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+   --global user.email &lt;email&gt; (define a new email who commits from l=
+ocal
+   repo)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in'><span style=3D'font-family:Calibri;font-size:11.=
+0pt'>Before
+   Connecting/linking local repo to the remote repo (</span><span
+   style=3D'font-family:ui-monospace;font-size:10.2pt;color:#9A9692'>git re=
+mote
+   add origin </span><a
+   href=3D"https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git"><span
+   style=3D'font-family:ui-monospace;font-size:10.2pt;color:#9A9692'>https:=
+//github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git</span></a><span
+   style=3D'font-family:ui-monospace;font-size:10.2pt;color:#9A9692'>
+   (connect/link local repo to remote repo)</span><span style=3D'font-famil=
+y:
+   Calibri;font-size:11.0pt'>):</span></p>
+   <ul type=3Ddisc style=3D'margin-left:.375in;direction:ltr;unicode-bidi:e=
+mbed;
+    margin-top:0in;margin-bottom:0in'>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>the folder should be=
+ a git
+        repo (git init), </span></li>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>and the local branch=
+ name
+        should be 'main' (git branch -M main)</span></li>
+   </ul>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A969=
+2'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A969=
+2'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A969=
+2'>Git
+   log</p>
+   <p style=3D'margin:0in;font-family:Calibri'><span style=3D'font-size:11.=
+0pt'>$
+   git </span><span style=3D'font-size:10.2pt;color:#9A9692'>log --oneline<=
+/span></p>
+   <p style=3D'margin:0in;font-family:Calibri'><span style=3D'font-size:11.=
+0pt'>$
+   git </span><span style=3D'font-size:10.2pt;color:#9A9692'>log --oneline
+   --graph</span></p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A969=
+2'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:10.2pt;color:#9A969=
+2'>Nano
+   demo.py</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git config
+   --global core.editor &quot;code --wait&quot; (opens VS code with Code
+   command)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show HE=
+AD</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show 44=
+3f6b2</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git show HE=
+AD~3</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
+   fileName (previous state)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkou=
+t .</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
+   443f6b2</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git checkout
+   master</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git check=
+out
+   &lt;branch name&gt; (to change the current branch. HEAD-&gt; &lt;branch
+   name&gt; )</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git check=
+out -b
+   &lt;branch name&gt;<span style=3D'mso-spacerun:yes'>Â  </span>(to change=
+ the
+   current branch. HEAD-&gt; &lt;branch name&gt; )</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git check=
+out
+   --track origin/&lt;new remote branch&gt; (adds new remote branch to loca=
+l)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Detached he=
+ad
+   state:<span style=3D'mso-spacerun:yes'>Â  </span>If checkout to previous=
+ heads,
+   then change sth and add and commit</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Undo the ch=
+anges
+   of a specific commit: revert &amp; reset</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git revert
+   443f6b2</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>For reset:<=
+/p>
+   <ol type=3D1 style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embe=
 d;
     margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:11.0pt;
     font-weight:normal;font-style:normal'>
     <li value=3D1 style=3D'margin-top:0;margin-bottom:0;vertical-align:midd=
 le'><span
         style=3D'font-family:Calibri;font-size:11.0pt;font-weight:normal;
-        font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset .
-        (there are unstaged file)</span></li>
-    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
-        style=3D'font-family:Calibri;font-size:11.0pt'>Git checkout . (no
-        unstaged)</span></li>
+        font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset
+        --mixed 443f6b2 (removes commits after 443f6b2 and unstages the fil=
+es)</span></li>
    </ol>
-   <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
-       style=3D'font-family:Calibri;font-size:11.0pt'>Git reset --hard </sp=
-an><span
-       style=3D'font-family:Calibri;font-size:10.2pt;color:#9A9692'>&lt;com=
-mit #:</span><span
-       style=3D'font-family:Calibri;font-size:11.0pt'>443f6b2</span><span
-       style=3D'font-family:Calibri;font-size:10.2pt;color:#9A9692'>&gt; </=
-span><span
-       style=3D'font-family:Calibri;font-size:11.0pt'>(removes both commits=
- and
-       files permenantly after 443f6b2)</span></li>
-  </ol>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git rm -r --=
-cached
-  .</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git push
-  &lt;remote branch&gt; &lt;local branch&gt;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git push o=
-rigin
-  --delete &lt;remote branch&gt; (deletes remote branch)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git pull
-  &lt;remote branch&gt; &lt;local branch&gt;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>On
-  GitHub&gt;&quot;Add file&quot;&gt;&quot;Create new file&quot;&gt;put
-  &quot;/&quot; at the end of the file name to make it folder name</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Usually chec=
-kout
-  to the default branch (main) and merge to the developped branch (dev)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git merge
-  &lt;destination branch&gt; (fast forward merge: move your main branch's t=
-ip
-  forward to the end of your feature branch)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git merge
-  --abort (when there is merge conflict. The overall command to abort the
-  merging)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git rebase
-  &lt;branch:main&gt; (Rebase dev branch to the main branch. If we make cha=
-nge
-  on both branches and then merge, it will be a fast forward merge, and sho=
-ws
-  no commit history of dev branch)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>In GItHub: O=
-n our
-  own repo create a new branch; make changes;pull request;merge; delete the=
- new
-  branch</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Commit for m=
-arging
-  is necessary (GitHub does that)</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>How to contr=
-ibute
-  to the open source project:</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Fork it. We =
-can
-  'fork' someone else's repo, not ours. 'fork' copies to GH account</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>'clone' copi=
-es to
-  local. Clone the forked repo, not the original repo. </p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Change the c=
-opied
-  local repo offline. </p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Push changes=
- to
-  the forked repo</p>
-  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Then 'pull
-  request' to contribute to the original repo (we cannot merge directly)</p>
+   <p style=3D'margin:0in;margin-left:.75in;font-family:Calibri;font-size:1=
+1.0pt'>Git
+   reset .</p>
+   <ol type=3D1 style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embe=
+d;
+    margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:11.0pt;
+    font-weight:normal;font-style:normal'>
+    <li value=3D2 style=3D'margin-top:0;margin-bottom:0;vertical-align:midd=
+le'><span
+        style=3D'font-family:Calibri;font-size:11.0pt;font-weight:normal;
+        font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset
+        --soft 443f6b2 (removes commits after 443f6b2, but there is no unst=
+aged
+        file)</span></li>
+    <ol type=3Da style=3D'margin-left:.375in;direction:ltr;unicode-bidi:emb=
+ed;
+     margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:11.0pt;
+     font-weight:normal;font-style:normal'>
+     <li value=3D1 style=3D'margin-top:0;margin-bottom:0;vertical-align:mid=
+dle'><span
+         style=3D'font-family:Calibri;font-size:11.0pt;font-weight:normal;
+         font-style:normal;font-family:Calibri;font-size:11.0pt'>Git reset .
+         (there are unstaged file)</span></li>
+     <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+         style=3D'font-family:Calibri;font-size:11.0pt'>Git checkout . (no
+         unstaged)</span></li>
+    </ol>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>Git reset --hard </s=
+pan><span
+        style=3D'font-family:Calibri;font-size:10.2pt;color:#9A9692'>&lt;co=
+mmit
+        #:</span><span style=3D'font-family:Calibri;font-size:11.0pt'>443f6=
+b2</span><span
+        style=3D'font-family:Calibri;font-size:10.2pt;color:#9A9692'>&gt; <=
+/span><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>(removes both commit=
+s and
+        files permenantly after 443f6b2)</span></li>
+   </ol>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Git rm -r
+   --cached .</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git push
+   &lt;remote branch&gt; &lt;local branch&gt;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git push =
+origin
+   --delete &lt;remote branch&gt; (deletes remote branch)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git pull
+   &lt;remote branch&gt; &lt;local branch&gt;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>On
+   GitHub&gt;&quot;Add file&quot;&gt;&quot;Create new file&quot;&gt;put
+   &quot;/&quot; at the end of the file name to make it folder name</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Usually che=
+ckout
+   to the default branch (main) and merge to the developped branch (dev)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git merge
+   &lt;destination branch&gt; (fast forward merge: move your main branch's =
+tip
+   forward to the end of your feature branch)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git merge
+   --abort (when there is merge conflict. The overall command to abort the
+   merging)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>$ git rebase
+   &lt;branch:main&gt; (Rebase dev branch to the main branch. If we make ch=
+ange
+   on both branches and then merge, it will be a fast forward merge, and sh=
+ows
+   no commit history of dev branch)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>In GItHub: =
+On our
+   own repo create a new branch; make changes;pull request;merge; delete the
+   new branch</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Commit for
+   marging is necessary (GitHub does that)</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>How to cont=
+ribute
+   to the open source project:</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Fork it. We=
+ can
+   'fork' someone else's repo, not ours. 'fork' copies to GH account</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>'clone' cop=
+ies to
+   local. Clone the forked repo, not the original repo. </p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Change the =
+copied
+   local repo offline. </p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Push change=
+s to
+   the forked repo</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Then 'pull
+   request' to contribute to the original repo (we cannot merge directly)</=
+p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+   <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>Add Git
+   collaborators (sending invitation to give push access to others):</p>
+   <ul type=3Ddisc style=3D'margin-left:.375in;direction:ltr;unicode-bidi:e=
+mbed;
+    margin-top:0in;margin-bottom:0in'>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>Browse to the repo o=
+n the
+        GH</span></li>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>Settings</span></li>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>Manage access</span>=
+</li>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>Invite a collaborator
+        (username, fullname, email)</span></li>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>Pending invite</span=
+></li>
+   </ul>
+   <ul type=3Ddisc style=3D'margin-left:0in;direction:ltr;unicode-bidi:embe=
+d;
+    margin-top:0in;margin-bottom:0in'>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+        style=3D'font-family:Calibri;font-size:11.0pt'>Checking invitations=
+</span></li>
+    <ul type=3Ddisc style=3D'margin-left:.375in;direction:ltr;unicode-bidi:=
+embed;
+     margin-top:0in;margin-bottom:0in'>
+     <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+         style=3D'font-family:Calibri;font-size:11.0pt'>Doesn't show anythi=
+ng on
+         GH</span></li>
+     <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+         style=3D'font-family:Calibri;font-size:11.0pt'>Email should be che=
+cked</span></li>
+    </ul>
+   </ul>
+  </ul>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3638in;
@@ -681,37 +753,37 @@ ng:0pt;
  <tr>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1px;
-  height:10.3069in;font-size:1pt'>
+  height:13.2909in;font-size:1pt'>
   <p style=3D'font-size:1pt'>&nbsp;</p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3638in;
-  height:10.3069in;font-size:1pt'>
+  height:13.2909in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.4791in;
-  height:10.3069in;font-size:1pt'>
+  height:13.2909in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.75in;
-  height:10.3069in;font-size:1pt'>
+  height:13.2909in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.0416in;
-  height:10.3069in;font-size:1pt'>
+  height:13.2909in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :.75in;
-  height:10.3069in;font-size:1pt'>
+  height:13.2909in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
   <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
 :1.3006in;
-  height:10.3069in;font-size:1pt'>
+  height:13.2909in;font-size:1pt'>
   <p style=3D'font-size:1pt'></p>
   </td>
  </tr>
@@ -734,7 +806,7 @@ color:#969696;direction:ltr'>CrÃ©Ã© avec Microsoft OneNote&nbsp;2016.</p>
 
 </html>
 
-------=_NextPart_01D98F36.BDFFE390
+------=_NextPart_01D98FD3.6A649B70
 Content-Location: file:///C:/B133A994/Git_fichiers/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -779,7 +851,7 @@ I6ncehLlYNp5DWwUyfT1ezFhKfI4+eamBY2MYfiX5fH7PVlQlehzjfhgJ9LvqclWbjkDXuRZZByb
 8X4Fpwc7kebv7esVbJiTiT68SBwbRJq/t89OWM7JmO/ts3MEsxPp9s2vVXKr2ZMqZZ6qLzyzJ7uK
 L828IETyghDJC0IkHyD0H8gqjkVs3N8WAAAAAElFTkSuQmCC
 
-------=_NextPart_01D98F36.BDFFE390
+------=_NextPart_01D98FD3.6A649B70
 Content-Location: file:///C:/B133A994/Git_fichiers/image002.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -869,7 +941,7 @@ cwiFe2Gm8akTs/5QTADmGAic9yCFG7D0TYWVtSeZ438nOAVyPBRz9g4EwCyBp4kAADwLHBwAwLNA
 4AAAngUCBwDwLBA4AIBngcABADwLBA4A4FkgcAAAzwKBAwB4FMb+H+fZhLi+rJ58AAAAAElFTkSu
 QmCC
 
-------=_NextPart_01D98F36.BDFFE390
+------=_NextPart_01D98FD3.6A649B70
 Content-Location: file:///C:/B133A994/Git_fichiers/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -880,4 +952,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"image002.png"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D98F36.BDFFE390--
+------=_NextPart_01D98FD3.6A649B70--
